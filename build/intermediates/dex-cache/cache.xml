@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\can\.android\build-cache\d3cee2b6d56334ee457d137d0deca18257a4ecd9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\can\Downloads\Agora_Native_SDK_for_Android_VOICE\samples\Agora-Android-Voice-Tutorial-1to1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1219cee4cf03fa379eab85ccc3a217f79c97dfb3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\can\.android\build-cache\c2cb275abb935be007c9c6a1e38953c718f3693d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\can\Downloads\Agora_Native_SDK_for_Android_VOICE\samples\Agora-Android-Voice-Tutorial-1to1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_93e54fc89d5e427006de8ad653853a52a51a13ca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\can\Downloads\Agora_Native_SDK_for_Android_VOICE\samples\Agora-Android-Voice-Tutorial-1to1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6183a2988cabadbc3a5bc90e50e516e54ce419cd">
+        <dex dex="C:\Users\can\Downloads\Agora_Native_SDK_for_Android_VOICE\samples\Agora-Android-Voice-Tutorial-1to1\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_5a4d3c1b8c0665eed9d2c07af48d4e545b1b7440\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\can\.android\build-cache\4c44c7c465942f5bdc25a44248054b65517f663b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\can\Downloads\Agora_Native_SDK_for_Android_VOICE\samples\Agora-Android-Voice-Tutorial-1to1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0a5e6ca285818b2153df84963d462bd5a8b8d3b6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\can\.android\build-cache\47cca899bbc10b105c9b1a2d2200853af099f04c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\can\Downloads\Agora_Native_SDK_for_Android_VOICE\samples\Agora-Android-Voice-Tutorial-1to1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d5374b550247cd33f254dcb523ef7f786b5bc1bc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\can\Downloads\Agora_Native_SDK_for_Android_VOICE\samples\Agora-Android-Voice-Tutorial-1to1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\can\Downloads\Agora_Native_SDK_for_Android_VOICE\samples\Agora-Android-Voice-Tutorial-1to1\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_b1339dbaabea74cba1d66432f79ab9db351236e1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\can\.android\build-cache\8dbd93be5179a7306f23a0edb8dcd2b7552f29e3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\can\Downloads\Agora_Native_SDK_for_Android_VOICE\samples\Agora-Android-Voice-Tutorial-1to1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8454415af5ae85a543f5de80245e503f1a8885bf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\can\.android\build-cache\93d3996f2b433c8c30c5a1532929f5623bb8f7a6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\can\Downloads\Agora_Native_SDK_for_Android_VOICE\samples\Agora-Android-Voice-Tutorial-1to1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f67b63be760329cc18922ee727ff99fe645bff9d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\can\.android\build-cache\9570d4713839a33ae8e66ba4177f73bb4b6689b6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\can\Downloads\Agora_Native_SDK_for_Android_VOICE\samples\Agora-Android-Voice-Tutorial-1to1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_44aac7e625abba8d63438cae3b61e9ce86f51f92\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\can\.android\build-cache\c1dffca09661dc4927cd0416f0734b7ae035cfb4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\can\Downloads\Agora_Native_SDK_for_Android_VOICE\samples\Agora-Android-Voice-Tutorial-1to1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a3ec9b016a01f32b54ce57f8195b8a52e3fa7a35\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\can\.android\build-cache\da9128a7650d2bbf7382d233314260bda8ee78e8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\can\Downloads\Agora_Native_SDK_for_Android_VOICE\samples\Agora-Android-Voice-Tutorial-1to1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_dfb4ad568018247d9433fb36e9353a5f22d05526\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\can\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\can\Downloads\Agora_Native_SDK_for_Android_VOICE\samples\Agora-Android-Voice-Tutorial-1to1\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_f21526f84f5df63720c46a889e20ff9da8bab8e4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\can\Downloads\Agora_Native_SDK_for_Android_VOICE\libs\agora-rtc-sdk.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="51b247a4cd47f9f9138918c70d5e4e522a27252e">
+        <dex dex="C:\Users\can\Downloads\Agora_Native_SDK_for_Android_VOICE\samples\Agora-Android-Voice-Tutorial-1to1\app\build\intermediates\transforms\dex\debug\folders\1000\2\agora-rtc-sdk_36c28424fbf87fab29fc17ff5ca3b56948ed77b5\classes.dex" />
+    </item>
+
+</items>
